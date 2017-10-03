@@ -1,0 +1,9 @@
+primary care
+family medicine
+internal medicine
+psychiatry
+cardiology
+obstetrics
+nephrology
+pulmonology
+oncology
